@@ -1,0 +1,16 @@
+{
+  "name": "popcat-click-autoclicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && node ."
+  },
+  "keywords": [],
+  "author": "Lukáš Hájek",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^8.0.0",
+    "user-agents": "^1.0.620"
+  }
+}
