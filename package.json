@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm install && node ."
+    "start": "npm install && node .",
+    "test": "npm install && node test"
   },
   "keywords": [],
   "author": "Lukáš Hájek",
